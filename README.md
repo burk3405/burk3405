@@ -4,10 +4,10 @@
 **burk3405/burk3405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### About Me
 - I’m currently working on an Arduino Pace Clock and Digital Image Processing Applications in C++
-- I’m currently learning Digital Image Processing and Relational/Object Databases
+- I’m currently learning Software Engineering and Artificial Intelligence Basics
 - I’m looking to collaborate on HTML/CSS or C# frontend projects
 - I’m looking for help with C++ backend connectivity with HTML/CSS frontend
-- I'm currently reading a book on OpenCV
+- I'm currently reading a book on Software Engineering Practices
 - Pronouns: He/Him
 - Fun fact: I love to swim
 
