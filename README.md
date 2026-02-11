@@ -5,7 +5,7 @@
 ### About Me
 - I’m currently working on an Arduino Pace Clock and Digital Image Processing Applications in C++
 - I’m currently learning Software Engineering and Artificial Intelligence Basics
-- I’m looking to collaborate on HTML/CSS or C# frontend projects
+- I’m looking to collaborate on HTML/CSS/JS or C# frontend projects
 - I’m looking for help with C++ backend connectivity with HTML/CSS frontend
 - I'm currently reading a book on Software Engineering Practices
 - Pronouns: He/Him
